@@ -1,1 +1,1 @@
-# medicalTemplate
+https://sakibmd.github.io/medicalTemplate/
